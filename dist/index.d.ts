@@ -1,2 +1,2 @@
-export { ChoneMedicalRecords } from './chone_medicalrecords';
+export { ChoneMovieRecords } from './chone_test';
 export declare const contracts: any[];

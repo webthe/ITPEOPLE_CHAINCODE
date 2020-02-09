@@ -3,7 +3,7 @@
  */
 
 
-import { ChoneMedicalRecords } from './chone_medicalrecords';
-export { ChoneMedicalRecords } from './chone_medicalrecords';
+import { ChoneMovieRecords } from './chone_test';
+export { ChoneMovieRecords } from './chone_test';
 
-export const contracts: any[] = [ ChoneMedicalRecords ];
+export const contracts: any[] = [ ChoneMovieRecords ];
