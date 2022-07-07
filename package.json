@@ -23,7 +23,7 @@
     "dependencies": {
         "fabric-contract-api": "~1.4.0",
         "fabric-shim": "~1.4.0",
-        "moment": "^2.24.0"
+        "moment": "^2.29.4"
     },
     "devDependencies": {
         "@types/chai": "^4.1.7",
